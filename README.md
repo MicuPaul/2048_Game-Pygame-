@@ -1,1 +1,1 @@
-# 2048_Game-Pygame-
+# 2048_Game(pygame)
